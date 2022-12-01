@@ -15,23 +15,23 @@
 2. Label each as either correct or incorrect syntax. If incorrect, rewrite below:
   * if (x == y) {
 
-    * **YOUR WRITING HERE**
+    * Correct
 
   * if [x == 10] {
 
-    * **YOUR WRITING HERE**
+    * Inccorect because it needs parantheces
 
   * if x = 10 then {
 
-    * **YOUR WRITING HERE**
+    * Correct
 
   * if (x equals 42) {
 
-    * **YOUR WRITING HERE**
+    * Need the actual equal sign like this (=)
 
   * if (x => y) {
 
-    * **YOUR WRITING HERE**
+    * Correct
 
 
 3. Fix the error in the code below:
@@ -45,4 +45,4 @@
   }
   ```
 
-  * **YOUR WRITING HERE**
+  * Varaibles are suppose to be on top
