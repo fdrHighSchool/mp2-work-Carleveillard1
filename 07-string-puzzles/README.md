@@ -3,16 +3,15 @@
 
 1. *In your own words*, discuss what each String method does:
   * `.substring(a)`
-    * **YOUR WRITING HERE**
-
+    * The string method helps for you to say how much hi's there are
   * `.substring(a, b)`
-    * **YOUR WRITING HERE**
+    * 
 
   * `.indexOf(str)`
-    * **YOUR WRITING HERE**
+    * Correct
 
   * `.equals(str)`
-    * **YOUR WRITING HERE**
+    * Correct
 
 
 2. *In your own words*, discuss what the following `for` loop accomplishes for `String s`:
@@ -21,4 +20,4 @@ for(int i = 0; i < s.length(); i++) {
       // DO STUFF
 }
 ```
-  * **YOUR WRITING HERE**
+  * There should be a <= or else i won;t print what you want
